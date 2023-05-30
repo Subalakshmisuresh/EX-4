@@ -55,8 +55,10 @@ REG NO:
 OUTPUT:
 
 CLIENT:
+![cn-4c](https://github.com/Subalakshmisuresh/EX-4/assets/121957896/20829cff-d5a9-4b1e-95c5-5ce6e37744a1)
 
 SERVER:
+![cn-4s](https://github.com/Subalakshmisuresh/EX-4/assets/121957896/ae932232-8df4-4400-9d63-42818f2205ac)
 
 RESULT:
 
